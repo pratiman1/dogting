@@ -1,2 +1,1 @@
-# dogting
-bootstrap
+TinDog Starting Files
