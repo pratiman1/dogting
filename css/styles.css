@@ -1,0 +1,146 @@
+#title{
+    background-color: #ff4c68;
+    
+}
+
+.he {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: whitesmoke;
+}
+
+.navbar{
+    margin: 18px;
+}
+#container-f{
+    
+    padding: 3% 15%;
+}
+
+#c1 {
+    font-family: "ubunty";
+    font-size: 4.5rem;
+}
+
+
+.nav-item{
+   padding: 0px 18px;
+   font-size: x-large;
+}
+
+.DN{
+    margin: 5% 4% auto;
+}
+
+.title-img{
+    width: 18%;
+    transform: rotate(25deg);
+    position: absolute;
+}
+
+@media (max-width :990px) {
+
+    .title-img{
+        position: static;
+        transform: rotate(0deg);
+        /* width: 100px;x */
+     
+    }
+   #title{
+    text-align: center;
+   }
+}
+
+.fr{
+    color: #ef817e;;
+    font-size: 3.5rem;
+    margin: 1rem;
+}
+
+.fr:hover{
+    color: #ff4c68;
+}
+
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    /* z-index: 1; */
+}
+
+.gf{
+    text-align: center;
+}
+
+h3{
+    font-family: 'Msonterrat-Bold';
+    font-size: 1.5rem;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: #ef817e;
+}
+
+.carousel-item{
+    padding: 5% 17%;
+
+}
+
+.hq{
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 2.5rem;
+    line-height: 3rem;
+}
+
+em{
+    color: whitesmoke;
+}
+
+.dg1{
+    width: 30%;
+    border-radius: 100%;
+    margin-right: 15px;
+}
+
+#press{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.dg2{
+    padding: 2% ;
+    width: 15%;
+    margin-bottom: 3%;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.lk{
+    padding: 3% 2%;
+}
+
+#cta{
+    background-color:#ff4c68;
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: whitesmoke;
+    text-align: center;
+    padding: 3% 15%;
+}
+
+#footer{
+    text-align: center;
+    padding: 3% 15%;
+
+}
